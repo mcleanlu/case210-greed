@@ -36,4 +36,4 @@ root                    (project root folder)
 
 ## Authors
 ---
-* # TODO: Luke McLean || lucas.w.mclean@gmail.com
+* # Luke McLean || lucas.w.mclean@gmail.com
